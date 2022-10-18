@@ -1,0 +1,15 @@
+.item{
+list-style: none ;
+padding: 10px;
+border: 1px solid blue;
+margin:10 px;
+border-radius: 10px;
+}
+.item a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.item:hover{
+    background-color: lightcyan;
+
+}
